@@ -1,6 +1,6 @@
 {
-  "version": "1.6.4",
-  "downloadUrl": "https://github.com/ShouwaPatora/lucky-wheel-app-updates/releases/download/v1.6.4/lucky-wheel-v1.6.4.apk",
-  "releaseNotes": "精修馬匹造型與奔跑動作；等全場馬匹衝線後顯示完整名次。",
+  "version": "1.6.5",
+  "downloadUrl": "https://github.com/ShouwaPatora/lucky-wheel-app-updates/releases/download/v1.6.5/lucky-wheel-v1.6.5.apk",
+  "releaseNotes": "完賽名次會留在賽道，按「查看賽果」才繼續；新增三種真馬與騎師奔跑造型。",
   "mandatory": false
 }
