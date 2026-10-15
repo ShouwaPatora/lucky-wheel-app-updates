@@ -1,6 +1,6 @@
 {
-  "version": "1.6.3",
-  "downloadUrl": "https://github.com/ShouwaPatora/lucky-wheel-app-updates/releases/download/v1.6.3/lucky-wheel-v1.6.3.apk",
-  "releaseNotes": "賽馬改為全螢幕顯示所有參賽馬匹，並加入更明顯的奔跑姿態、跑道速度線與馬蹄塵土效果。",
+  "version": "1.6.4",
+  "downloadUrl": "https://github.com/ShouwaPatora/lucky-wheel-app-updates/releases/download/v1.6.4/lucky-wheel-v1.6.4.apk",
+  "releaseNotes": "精修馬匹造型與奔跑動作；等全場馬匹衝線後顯示完整名次。",
   "mandatory": false
 }
