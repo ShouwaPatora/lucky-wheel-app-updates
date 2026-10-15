@@ -1,6 +1,6 @@
 {
-  "version": "1.6.6",
-  "downloadUrl": "https://github.com/ShouwaPatora/lucky-wheel-app-updates/releases/download/v1.6.6/lucky-wheel-v1.6.6.apk",
-  "releaseNotes": "全場馬匹顯示完賽排名，並以醒目標籤與金色跑道標示抽中的名次。",
+  "version": "1.6.7",
+  "downloadUrl": "https://github.com/ShouwaPatora/lucky-wheel-app-updates/releases/download/v1.6.7/lucky-wheel-v1.6.7.apk",
+  "releaseNotes": "開箱改為 N+2 個箱子自行挑選；賽馬技能每場隨機並有對應特效；日本紅白扭蛋機與可拉側桿的拉霸；設定頁可手動檢查並重新開啟更新。",
   "mandatory": false
 }
