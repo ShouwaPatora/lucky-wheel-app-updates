@@ -1,6 +1,6 @@
 {
-  "version": "1.6.1",
-  "downloadUrl": "https://github.com/ShouwaPatora/lucky-wheel-app-updates/releases/download/v1.6.1/lucky-wheel-v1.6.1.apk",
-  "releaseNotes": "賽馬名單改為緊湊多欄，馬名會跟著馬匹移動顯示。",
+  "version": "1.6.2",
+  "downloadUrl": "https://github.com/ShouwaPatora/lucky-wheel-app-updates/releases/download/v1.6.2/lucky-wheel-v1.6.2.apk",
+  "releaseNotes": "修正 Android 更新 APK 下載後無法交給安裝程式的問題。",
   "mandatory": false
 }
