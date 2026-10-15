@@ -1,6 +1,6 @@
 {
-  "version": "1.6.2",
-  "downloadUrl": "https://github.com/ShouwaPatora/lucky-wheel-app-updates/releases/download/v1.6.2/lucky-wheel-v1.6.2.apk",
-  "releaseNotes": "修正 Android 更新 APK 下載後無法交給安裝程式的問題。",
+  "version": "1.6.3",
+  "downloadUrl": "https://github.com/ShouwaPatora/lucky-wheel-app-updates/releases/download/v1.6.3/lucky-wheel-v1.6.3.apk",
+  "releaseNotes": "賽馬改為全螢幕顯示所有參賽馬匹，並加入更明顯的奔跑姿態、跑道速度線與馬蹄塵土效果。",
   "mandatory": false
 }
