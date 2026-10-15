@@ -1,6 +1,1 @@
-{
-  "version": "1.6.7",
-  "downloadUrl": "https://github.com/ShouwaPatora/lucky-wheel-app-updates/releases/download/v1.6.7/lucky-wheel-v1.6.7.apk",
-  "releaseNotes": "開箱改為 N+2 個箱子自行挑選；賽馬技能每場隨機並有對應特效；日本紅白扭蛋機與可拉側桿的拉霸；設定頁可手動檢查並重新開啟更新。",
-  "mandatory": false
-}
+{"version":"1.6.8","downloadUrl":"https://github.com/ShouwaPatora/lucky-wheel-app-updates/releases/download/v1.6.8/lucky-wheel-v1.6.8.apk","releaseNotes":"修正拉霸轉輪溢出顯示，拉桿改為向下拉；機台三顆按鈕可提前停止對應轉輪，沒按的轉輪仍依序自動停。扭蛋加入立體膠囊素材，球體留在透明球艙內，出蛋口整合到機台正面。","mandatory":false}
