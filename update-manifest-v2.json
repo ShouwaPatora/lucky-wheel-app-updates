@@ -1,8 +1,8 @@
 {
-  "size": 11766260,
   "packageName": "com.luckywheel.app.v2",
-  "releaseNotes": "清單中的既有收藏與新收藏可直接打開原地點詳情，再返回同一份清單。",
-  "versionName": "2.0.0-test.5",
-  "versionCode": 5,
-  "sha256": "838fb0520e684b1fce6ab507a881f27572235d3fe6befbc78e8dd3d6cb018023"
+  "releaseNotes": "支援以目前位置、指定店家、地標或地址查附近店家；卡片直接顯示可用的地址、電話、簡介和資料來源。",
+  "size": 11766936,
+  "versionName": "2.0.0-test.6",
+  "sha256": "415f461e34543b280e8b135d535c3a9ada2564cdc78c70a72b882e5f4537dd9e",
+  "versionCode": 6
 }
