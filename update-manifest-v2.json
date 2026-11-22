@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "2.0.0-test.4",
+  "size": 11766260,
   "packageName": "com.luckywheel.app.v2",
-  "releaseNotes": "新增 6,246 筆餐飲門牌與 8,377 筆電話，並加入「有照片且有地址」篩選。",
-  "sha256": "b204b3c64cf53d2ecfae190d91ec8c94d3351fb2a9dbbe147f45cce205a1df81",
-  "size": 11765756
+  "releaseNotes": "清單中的既有收藏與新收藏可直接打開原地點詳情，再返回同一份清單。",
+  "versionName": "2.0.0-test.5",
+  "versionCode": 5,
+  "sha256": "838fb0520e684b1fce6ab507a881f27572235d3fe6befbc78e8dd3d6cb018023"
 }
