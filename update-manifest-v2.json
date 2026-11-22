@@ -1,8 +1,8 @@
 {
-  "size": 11617785,
-  "releaseNotes": "新增「設定 → 檢查更新」，可在 App 內下載新版並交由 Android 安裝。",
-  "sha256": "873daf830230528ddabbb4350afb91bcc167376ef23ed3e686697d9847d7dff3",
-  "versionCode": 3,
+  "versionCode": 4,
+  "versionName": "2.0.0-test.4",
   "packageName": "com.luckywheel.app.v2",
-  "versionName": "2.0.0-test.3"
+  "releaseNotes": "新增 6,246 筆餐飲門牌與 8,377 筆電話，並加入「有照片且有地址」篩選。",
+  "sha256": "b204b3c64cf53d2ecfae190d91ec8c94d3351fb2a9dbbe147f45cce205a1df81",
+  "size": 11765756
 }
