@@ -1,8 +1,8 @@
 {
-  "releaseNotes": "修正 Android 系統返回鍵與手勢。先關閉面板，再回到上一頁並保留原搜尋。",
-  "packageName": "com.luckywheel.app.v2",
-  "versionCode": 7,
-  "versionName": "2.0.0-test.7",
-  "sha256": "fe3bc4d504d3905016ba2c22a10f6ec333e34b55402ca50fa2c109a6b8a3eb81",
-  "size": 11772352
+  "versionName": "2.0.0-test.8",
+  "sha256": "a0a52858185a5afa1568ccb559133d3e928ab6f3823c04bc9a22bc77529b223c",
+  "versionCode": 8,
+  "releaseNotes": "為台北、台中、台南與高雄共五家餐飲店加入可離線查看的授權縮圖，詳情可查作者、拍攝年份和原圖。APK 約增加 0.18 MB。",
+  "size": 11955598,
+  "packageName": "com.luckywheel.app.v2"
 }
