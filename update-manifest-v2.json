@@ -1,0 +1,8 @@
+{
+  "size": 11617785,
+  "releaseNotes": "新增「設定 → 檢查更新」，可在 App 內下載新版並交由 Android 安裝。",
+  "sha256": "873daf830230528ddabbb4350afb91bcc167376ef23ed3e686697d9847d7dff3",
+  "versionCode": 3,
+  "packageName": "com.luckywheel.app.v2",
+  "versionName": "2.0.0-test.3"
+}
