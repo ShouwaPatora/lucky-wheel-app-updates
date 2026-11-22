@@ -1,8 +1,8 @@
 {
-  "versionName": "2.0.0-test.8",
-  "sha256": "a0a52858185a5afa1568ccb559133d3e928ab6f3823c04bc9a22bc77529b223c",
-  "versionCode": 8,
-  "releaseNotes": "為台北、台中、台南與高雄共五家餐飲店加入可離線查看的授權縮圖，詳情可查作者、拍攝年份和原圖。APK 約增加 0.18 MB。",
-  "size": 11955598,
+  "releaseNotes": "附近查詢會連網讀取官方餐飲資料。預設顯示電話、門牌和介紹齊全的餐飲，每張卡片可點開來源。",
+  "versionCode": 9,
+  "versionName": "2.0.0-test.9",
+  "sha256": "afa5958686d7953077fd587b9349ce727bf79778ae56e7e85596f75436b2e4d5",
+  "size": 11995765,
   "packageName": "com.luckywheel.app.v2"
 }
