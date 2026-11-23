@@ -1,8 +1,8 @@
 {
-  "size": 11965394,
-  "versionName": "2.0.0-test.12",
-  "versionCode": 12,
-  "sha256": "d373dad884d0ed1c2ed6be86b4dcca0c6cd9f31bfca4705dea062958bbcaa2ab",
-  "releaseNotes": "附近結果、收藏群組與轉盤略過已知永久歇業地點，修正莫爾咖啡廚房。增補松山店家來源、分店實照及農業部連網照片。",
-  "packageName": "com.luckywheel.app.v2"
+  "packageName": "com.luckywheel.app.v2",
+  "versionName": "2.0.0-test.13",
+  "versionCode": 13,
+  "size": 10713161,
+  "sha256": "340893d4b84386506443460e7e8708fde16b34f3dfc2c3e2567393d5f0286287",
+  "releaseNotes": "地點照片全部改為連網讀取。景點可依名稱和座標查找開放授權地標照片，餐飲卡及詳情顯示資料來源提供的營業時間。"
 }
