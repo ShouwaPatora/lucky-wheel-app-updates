@@ -1,8 +1,8 @@
 {
+  "size": 10712936,
   "packageName": "com.luckywheel.app.v2",
-  "versionName": "2.0.0-test.13",
-  "versionCode": 13,
-  "size": 10713161,
-  "sha256": "340893d4b84386506443460e7e8708fde16b34f3dfc2c3e2567393d5f0286287",
-  "releaseNotes": "地點照片全部改為連網讀取。景點可依名稱和座標查找開放授權地標照片，餐飲卡及詳情顯示資料來源提供的營業時間。"
+  "sha256": "05b484431a2eb75e21eff95e46be61b4b2f1b2951de58b456d4594987318cc70",
+  "releaseNotes": "附近搜尋新增住宿，以觀光署旅館民宿資料連網顯示來源、旅宿登記證號和可用的照片與介紹，支援儲存及轉盤。新增臺中第二市場李海魯肉飯的連網照片。",
+  "versionName": "2.0.0-test.14",
+  "versionCode": 14
 }
