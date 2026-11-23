@@ -1,8 +1,8 @@
 {
-  "versionName": "2.0.0-test.15",
-  "size": 10716012,
-  "sha256": "cbf5978fd07c46d17870e3526e3db22062373f6dcb7b554adfe6918dca630ca2",
+  "size": 10717252,
+  "sha256": "2b0b1e8e75b29e6c985c44f8788437eb554c1f170643a0ad65289980278ddc0b",
   "packageName": "com.luckywheel.app.v2",
-  "versionCode": 15,
-  "releaseNotes": "附近餐飲接入臺中觀光旅遊網與臺北友善店家。核對分店後連網補充照片、介紹、地址和電話，並顯示來源。"
+  "versionCode": 16,
+  "releaseNotes": "附近餐飲新增臺南市市場處和臺中市府的攤商圖文。確認攤位後連網顯示照片或介紹，詳情附出處。",
+  "versionName": "2.0.0-test.16"
 }
