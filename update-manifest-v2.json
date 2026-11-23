@@ -1,8 +1,8 @@
 {
-  "size": 10712936,
+  "versionName": "2.0.0-test.15",
+  "size": 10716012,
+  "sha256": "cbf5978fd07c46d17870e3526e3db22062373f6dcb7b554adfe6918dca630ca2",
   "packageName": "com.luckywheel.app.v2",
-  "sha256": "05b484431a2eb75e21eff95e46be61b4b2f1b2951de58b456d4594987318cc70",
-  "releaseNotes": "附近搜尋新增住宿，以觀光署旅館民宿資料連網顯示來源、旅宿登記證號和可用的照片與介紹，支援儲存及轉盤。新增臺中第二市場李海魯肉飯的連網照片。",
-  "versionName": "2.0.0-test.14",
-  "versionCode": 14
+  "versionCode": 15,
+  "releaseNotes": "附近餐飲接入臺中觀光旅遊網與臺北友善店家。核對分店後連網補充照片、介紹、地址和電話，並顯示來源。"
 }
