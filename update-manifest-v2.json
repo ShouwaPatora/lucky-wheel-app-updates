@@ -1,9 +1,8 @@
 {
-  "versionName": "2.0.0-test.11",
-  "apkUrl": "https://github.com/ShouwaPatora/lucky-wheel-app-updates/releases/download/wheel-v2.0.0-test.11/LuckyWheel-2.0-test.11-android.apk",
-  "releaseNotes": "附近結果依步行或開車的道路距離篩選與排序，新增觀光署線上照片、兩張分店實照，以及摩斯與西堤官網價位。",
-  "sha256": "6540fb70803b0ccd337e741a473fccc27236303503c546e002f04ab8ba4cd526",
-  "versionCode": 11,
-  "size": 11964716,
+  "size": 11965394,
+  "versionName": "2.0.0-test.12",
+  "versionCode": 12,
+  "sha256": "d373dad884d0ed1c2ed6be86b4dcca0c6cd9f31bfca4705dea062958bbcaa2ab",
+  "releaseNotes": "附近結果、收藏群組與轉盤略過已知永久歇業地點，修正莫爾咖啡廚房。增補松山店家來源、分店實照及農業部連網照片。",
   "packageName": "com.luckywheel.app.v2"
 }
