@@ -1,8 +1,8 @@
 {
-  "size": 10717252,
-  "sha256": "2b0b1e8e75b29e6c985c44f8788437eb554c1f170643a0ad65289980278ddc0b",
+  "size": 10718420,
+  "sha256": "88c8627fb49a2b4704d5aaaf6b455f4b80117676f41aff159cb7336996d2478a",
+  "versionCode": 17,
+  "releaseNotes": "修正附近清單滑到底就停止的問題，會繼續計算下一批道路距離並載入結果。新增範圍內店名搜尋，可查詢路易莎等分店。",
   "packageName": "com.luckywheel.app.v2",
-  "versionCode": 16,
-  "releaseNotes": "附近餐飲新增臺南市市場處和臺中市府的攤商圖文。確認攤位後連網顯示照片或介紹，詳情附出處。",
-  "versionName": "2.0.0-test.16"
+  "versionName": "2.0.0-test.17"
 }
