@@ -1,8 +1,8 @@
 {
-  "releaseNotes": "附近查詢會連網讀取官方餐飲資料。預設顯示電話、門牌和介紹齊全的餐飲，每張卡片可點開來源。",
-  "versionCode": 9,
-  "versionName": "2.0.0-test.9",
-  "sha256": "afa5958686d7953077fd587b9349ce727bf79778ae56e7e85596f75436b2e4d5",
-  "size": 11995765,
-  "packageName": "com.luckywheel.app.v2"
+  "packageName": "com.luckywheel.app.v2",
+  "versionName": "2.0.0-test.10",
+  "versionCode": 10,
+  "sha256": "dc846c767793e7f51d1d1c0230bac7fc1c986c5d7f6aaf404d99043cc1acec6c",
+  "size": 11962005,
+  "releaseNotes": "標示搜尋中心的直線距離與定位誤差，新增 Google 地圖步行路線。餐飲卡片顯示有來源的價位區間。"
 }
