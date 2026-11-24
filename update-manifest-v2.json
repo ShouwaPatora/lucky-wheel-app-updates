@@ -1,8 +1,8 @@
 {
-  "versionCode": 18,
-  "size": 10717580,
+  "sha256": "3c57c0bfc6b5dd327d30a2789c08ba1a776fd1e41743defa85329acaa2bbb00d",
+  "releaseNotes": "在附近地點標題旁加入類別快選。點開可選全部類別、餐飲、景點或住宿，保留目前位置、範圍、交通方式及關鍵字。",
+  "size": 10718144,
+  "versionCode": 19,
   "packageName": "com.luckywheel.app.v2",
-  "releaseNotes": "移除餐飲資料齊全與照片相關篩選。缺少照片、地址、電話或介紹的地點也會列在符合條件的結果中。",
-  "versionName": "2.0.0-test.18",
-  "sha256": "3eaa70a82db9a7b2d79be354f524c2b61c79a97e2b27a577220f00fe21e64cbe"
+  "versionName": "2.0.0-test.19"
 }
